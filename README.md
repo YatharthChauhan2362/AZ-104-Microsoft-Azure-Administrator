@@ -1,5 +1,4 @@
 ![10](https://user-images.githubusercontent.com/75237577/236700011-8f763ce6-9bfc-4b4a-99e0-54f062df88ca.png)
-![11](https://user-images.githubusercontent.com/75237577/236700012-2dc08a87-9cea-420e-acd7-afd3a1db5e76.png)
 
 # AZ-104-Microsoft-Azure-Administrator
 
