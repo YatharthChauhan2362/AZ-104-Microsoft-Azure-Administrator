@@ -22,6 +22,7 @@ Prepare AZ-104 with YC (Yatharth Chauhan)
 • [manage guest accounts]()
 
 • [configure Azure AD join]()
+
 • [configure self-service password reset]()
 
 ## 2. Manage role-based access control (RBAC)
