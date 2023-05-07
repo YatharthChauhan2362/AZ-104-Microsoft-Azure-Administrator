@@ -1,3 +1,5 @@
+![10](https://user-images.githubusercontent.com/75237577/236700011-8f763ce6-9bfc-4b4a-99e0-54f062df88ca.png)
+
 # AZ-104-Microsoft-Azure-Administrator
 
 Prepare AZ-104 with YC (Yatharth Chauhan)
@@ -20,6 +22,7 @@ Prepare AZ-104 with YC (Yatharth Chauhan)
 • [manage guest accounts]()
 
 • [configure Azure AD join]()
+
 • [configure self-service password reset]()
 
 ## 2. Manage role-based access control (RBAC)
